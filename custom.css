@@ -6,8 +6,8 @@
 .header {
   margin: 1px 1px 1px 1px;
   padding: 1px 1px 1px 1px;
-  width: 80%; 
-  height: 150px;
+  width: 90%; 
+  height: 170px;
   min-width: 360px;
   display: flex;
   justify-content: center;
@@ -223,7 +223,7 @@ h4 {
   background-repeat: no-repeat;
   background-image: url(zheader.jpg);
   background-size: cover;
-  background-position: left;
+  background-position: center;
   background-size: 100% 100%;
 }
 
@@ -243,12 +243,12 @@ h4 {
   justify-content: center;
   align-items: center;
   background-repeat: no-repeat;
-  background-image: url(zheader.jpg );
+  background-image: url(zheader.jpg);
   background-size: cover;
   border-style: solid;
   border-width: 5px 5px 5px 5px;
   border-color: black black black black;
-  background-position: left;
+  background-position: center;
   background-size: 100% 100%;
 }
   
@@ -269,12 +269,12 @@ h4 {
   justify-content: center;
   align-items: center;
   background-repeat: no-repeat;
-  background-image: url(zheader.jpg );
+  background-image: url(zheader.jpg);
   background-size: cover;
   border-style: solid;
   border-width: 5px 5px 5px 5px;
   border-color: black black black black;
-  background-position: left;
+  background-position: center;
   background-size: 100% 100%;
 }
 
@@ -342,12 +342,12 @@ h4 {
   justify-content: center;
   align-items: center;
   background-repeat: no-repeat;
-  background-image: url(zheader.jpg );
+  background-image: url(zheader.jpg);
   background-size: cover;
   border-style: solid;
   border-width: 5px 5px 5px 5px;
   border-color: black black black black;
-  background-position: left;
+  background-position: center;
   background-size: 100% 100%;
 }
 
@@ -420,7 +420,7 @@ h4 {
   border-style: solid;
   border-width: 5px 5px 5px 5px;
   border-color: black black black black;
-  background-position: left;
+  background-position: center;
   background-size: 100% 100%;
 }
 
